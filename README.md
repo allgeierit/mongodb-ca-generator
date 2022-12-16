@@ -26,4 +26,6 @@ cat mongodb-server1.key >> mongodb.key
 ```
 
 
+Use mongodb.ca.pem (CA certificate) and mongodb.key (certificate and key).
+
 See: https://www.mongodb.com/docs/manual/appendix/security/appendixA-openssl-ca/
